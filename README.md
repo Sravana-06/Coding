@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sravana-06/Coding/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Sravana-06/Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Sravana-06/Coding/tree/master/3606-coupon-code-validator) |
 ## Math
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Sravana-06/Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Sravana-06/Coding/tree/master/3606-coupon-code-validator) |
 ## Simulation
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sravana-06/Coding/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Sravana-06/Coding/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+## Greedy
+|  |
+| ------- |
+| [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
