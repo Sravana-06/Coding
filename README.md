@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sravana-06/Coding/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2402-meeting-rooms-iii](https://github.com/Sravana-06/Coding/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Sravana-06/Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Sravana-06/Coding/tree/master/3606-coupon-code-validator) |
@@ -16,16 +17,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Sravana-06/Coding/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/Sravana-06/Coding/tree/master/3433-count-mentions-per-user) |
 | [3606-coupon-code-validator](https://github.com/Sravana-06/Coding/tree/master/3606-coupon-code-validator) |
 ## Simulation
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Sravana-06/Coding/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/Sravana-06/Coding/tree/master/3433-count-mentions-per-user) |
 ## Hash Table
 |  |
 | ------- |
+| [2402-meeting-rooms-iii](https://github.com/Sravana-06/Coding/tree/master/2402-meeting-rooms-iii) |
 | [3606-coupon-code-validator](https://github.com/Sravana-06/Coding/tree/master/3606-coupon-code-validator) |
 ## String
 |  |
@@ -42,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sravana-06/Coding/tree/master/3075-maximize-happiness-of-selected-children) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2402-meeting-rooms-iii](https://github.com/Sravana-06/Coding/tree/master/2402-meeting-rooms-iii) |
 <!---LeetCode Topics End-->
